@@ -1,0 +1,7 @@
+{
+  "HOME": "/",
+  "OFERTA": "/oferta",
+  "CONTACTO": "/contacto",
+  "LISTMATERIALBYFILTER": "/listMaterialByFilter",
+  "LISTMATERIALBYSEARCH": "/search"
+}

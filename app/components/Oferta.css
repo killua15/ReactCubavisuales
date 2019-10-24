@@ -1,0 +1,11 @@
+.oferta_container {
+  overflow-y: scroll;
+  height: 100vh;
+}
+.container {
+  padding: 30px;
+  margin-top: 20px;
+}
+.oferta_containerContacto {
+  margin-top: 100px;
+}

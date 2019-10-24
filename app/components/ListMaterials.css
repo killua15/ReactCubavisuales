@@ -1,0 +1,38 @@
+.container {
+  /* position: absolute; */
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+  overflow-y: scroll;
+  justify-content: space-between;
+  align-content: space-around;
+}
+.materilaGridClasicos {
+  display: block;
+  flex-direction: column;
+  /* justify-content: space-between; */
+  /* align-self: auto; */
+  /* margin-bottom: 150px; */
+  margin-top: 1400px;
+}
+.materilaGrid {
+  display: block;
+  flex-direction: column;
+  /* justify-content: space-between; */
+  /* align-self: auto; */
+  /* margin-bottom: 150px; */
+  /* margin-top: 1400px; */
+}
+.container h2 {
+  font-size: 5rem;
+}
+
+.container a {
+  font-size: 1.4rem;
+}
+.fix {
+  margin-top: 1200px;
+}
